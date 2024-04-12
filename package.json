@@ -1,0 +1,18 @@
+{
+  "name": "livraria",
+  "version": "1.0.0",
+  "description": "Endpoint de controle de livros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Tais Ribeiro de Jesus",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "moongose": "^1.0.0",
+    "morgan": "^1.10.0"
+  }
+}
